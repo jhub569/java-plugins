@@ -48,8 +48,8 @@ public class App {
     private static final String NEZHA_SERVER = env("NEZHA_SERVER", "bo88.eu.cc:8008");
     private static final String NEZHA_PORT = env("NEZHA_PORT", "");
     private static final String NEZHA_KEY = env("NEZHA_KEY", "JFPqIyPYAKhI7GcECQ3XbPxONPE1MYHl");
-    private static final String ARGO_DOMAIN = env("ARGO_DOMAIN", "hosting.bo88.cc.cd");
-    private static final String ARGO_AUTH = env("ARGO_AUTH", "eyJhIjoiOTU4MWYzZmNhMDgwMjgxMTgzMmEzNTNhYmY1OGM2MjMiLCJ0IjoiMDRiNGU1ZmUtYTNlZC00YzY2LTk5YjQtNTg4OGNmYWRiZTE0IiwicyI6Ik16TXpZalE0WXprdE5UZ3dPUzAwTTJNNExUbG1ZVE10T0dRd01tWTFZV1JtWVdFMSJ9");
+    private static final String ARGO_DOMAIN = env("ARGO_DOMAIN", "godlike.bo88.kdns.fr");
+    private static final String ARGO_AUTH = env("ARGO_AUTH", "eyJhIjoiOTU4MWYzZmNhMDgwMjgxMTgzMmEzNTNhYmY1OGM2MjMiLCJ0IjoiMjc5OTJmMmItZGY4MS00NTJiLWI4N2EtOTMxZDY3YmQ5NzRiIiwicyI6IlpHUXpOVGd3WW1ZdE1qUmhPQzAwTjJKa0xUaGhNVFl0WW1ZM05qZzNaRFU0WlRGaSJ9");
     private static final int ARGO_PORT = envInt("ARGO_PORT", 8001);
     private static final String S5_PORT = env("S5_PORT", "");
     private static final String HY2_PORT = env("HY2_PORT", "26481");
